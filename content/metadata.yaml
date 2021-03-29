@@ -1,26 +1,45 @@
 ---
-title: "Manuscript Title"
+title: "WIP: New-onset Neurocognitive effects in COVID patients"
 keywords:
-  - markdown
-  - publishing
+  - machine learning
+  - rare population
   - manubot
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
+  - github: jaybee84
+    name: Jineta Banerjee
+    initials: JB
     orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+    email: jineta.banerjee@sagebionetworks.org
     affiliations:
-      - Department of Something, University of Whatever
+      - Sage Bionetworks
     funders:
       - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
+  - github: trang1618
+    name: Trang T le
+    initials: TTL
     orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+    email: grixor@gmail.com
     affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - University of Pennsylvania
+   - github: allaway
+    name: Robert Allaway
+    initials: RA
+    orcid: XXXX-XXXX-XXXX-XXXX
+    email: robert.allaway@sagebionetworks.org
+    affiliations:
+      - Sage Bionetworks
+   - github: NA
+    name: Zongqi Xia
+    initials: ZX
+    orcid: XXXX-XXXX-XXXX-XXXX
+    email: zxia1@pitt.edu
+    affiliations:
+      - University of Pittsburgh
+   - github: jguinney
+    name: Justin Guinney
+    initials: JG
+    orcid: XXXX-XXXX-XXXX-XXXX
+    email: justin.guinney@sagebionetworks.org
+    affiliations:
+      - Sage Bionetworks

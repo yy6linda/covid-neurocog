@@ -23,21 +23,21 @@ authors:
     email: grixor@gmail.com
     affiliations:
       - University of Pennsylvania
-   - github: allaway
+  - github: allaway
     name: Robert Allaway
     initials: RA
     orcid: XXXX-XXXX-XXXX-XXXX
     email: robert.allaway@sagebionetworks.org
     affiliations:
       - Sage Bionetworks
-   - github: NA
+  - github: NA
     name: Zongqi Xia
     initials: ZX
     orcid: XXXX-XXXX-XXXX-XXXX
     email: zxia1@pitt.edu
     affiliations:
       - University of Pittsburgh
-   - github: jguinney
+  - github: jguinney
     name: Justin Guinney
     initials: JG
     orcid: XXXX-XXXX-XXXX-XXXX

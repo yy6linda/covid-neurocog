@@ -1,39 +1,49 @@
 ---
-title: Manuscript Title
+title: 'WIP: New-onset Neurocognitive effects in COVID patients'
 keywords:
-- markdown
-- publishing
+- machine learning
+- rare population
 - manubot
 lang: en-US
-date-meta: '2021-03-29'
+date-meta: '2021-04-05'
 author-meta:
-- John Doe
-- Jane Roe
+- Jineta Banerjee
+- Trang T le
+- Robert Allaway
+- Zongqi Xia
+- Justin Guinney
 header-includes: |-
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
   Suggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html
   -->
   <meta name="dc.format" content="text/html" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
-  <meta name="dc.date" content="2021-03-29" />
-  <meta name="citation_publication_date" content="2021-03-29" />
+  <meta name="dc.title" content="WIP: New-onset Neurocognitive effects in COVID patients" />
+  <meta name="citation_title" content="WIP: New-onset Neurocognitive effects in COVID patients" />
+  <meta property="og:title" content="WIP: New-onset Neurocognitive effects in COVID patients" />
+  <meta property="twitter:title" content="WIP: New-onset Neurocognitive effects in COVID patients" />
+  <meta name="dc.date" content="2021-04-05" />
+  <meta name="citation_publication_date" content="2021-04-05" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+  <meta name="citation_author" content="Jineta Banerjee" />
+  <meta name="citation_author_institution" content="Sage Bionetworks" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
+  <meta name="citation_author" content="Trang T le" />
+  <meta name="citation_author_institution" content="University of Pennsylvania" />
+  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Robert Allaway" />
+  <meta name="citation_author_institution" content="Sage Bionetworks" />
+  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Zongqi Xia" />
+  <meta name="citation_author_institution" content="University of Pittsburgh" />
+  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Justin Guinney" />
+  <meta name="citation_author_institution" content="Sage Bionetworks" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
   <link rel="canonical" href="https://jaybee84.github.io/covid-neurocog/" />
   <meta property="og:url" content="https://jaybee84.github.io/covid-neurocog/" />
@@ -41,9 +51,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jaybee84.github.io/covid-neurocog/" />
   <meta name="citation_pdf_url" content="https://jaybee84.github.io/covid-neurocog/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jaybee84.github.io/covid-neurocog/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jaybee84.github.io/covid-neurocog/v/f09ce13278540620afe5a67840ef23284d4d83f9/" />
-  <meta name="manubot_html_url_versioned" content="https://jaybee84.github.io/covid-neurocog/v/f09ce13278540620afe5a67840ef23284d4d83f9/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jaybee84.github.io/covid-neurocog/v/f09ce13278540620afe5a67840ef23284d4d83f9/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jaybee84.github.io/covid-neurocog/v/4d4815b90dc2a38749166ab733c17f0c4bd9c139/" />
+  <meta name="manubot_html_url_versioned" content="https://jaybee84.github.io/covid-neurocog/v/4d4815b90dc2a38749166ab733c17f0c4bd9c139/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jaybee84.github.io/covid-neurocog/v/4d4815b90dc2a38749166ab733c17f0c4bd9c139/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,35 +75,60 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jaybee84.github.io/covid-neurocog/v/f09ce13278540620afe5a67840ef23284d4d83f9/))
+([permalink](https://jaybee84.github.io/covid-neurocog/v/4d4815b90dc2a38749166ab733c17f0c4bd9c139/))
 was automatically generated
-from [jaybee84/covid-neurocog@f09ce13](https://github.com/jaybee84/covid-neurocog/tree/f09ce13278540620afe5a67840ef23284d4d83f9)
-on March 29, 2021.
+from [jaybee84/covid-neurocog@4d4815b](https://github.com/jaybee84/covid-neurocog/tree/4d4815b90dc2a38749166ab733c17f0c4bd9c139)
+on April 5, 2021.
 </em></small>
 
 ## Authors
 
 
 
-+ **John Doe**<br>
++ **Jineta Banerjee**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [jaybee84](https://github.com/jaybee84)<br>
   <small>
-     Department of Something, University of Whatever
+     Sage Bionetworks
      · Funded by Grant XXXXXXXX
   </small>
 
-+ **Jane Roe**<br>
++ **Trang T le**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
+    [trang1618](https://github.com/trang1618)<br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     University of Pennsylvania
+  </small>
+
++ **Robert Allaway**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    · ![GitHub icon](images/github.svg){.inline_icon}
+    [allaway](https://github.com/allaway)<br>
+  <small>
+     Sage Bionetworks
+  </small>
+
++ **Zongqi Xia**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    · ![GitHub icon](images/github.svg){.inline_icon}
+    [NA](https://github.com/NA)<br>
+  <small>
+     University of Pittsburgh
+  </small>
+
++ **Justin Guinney**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    · ![GitHub icon](images/github.svg){.inline_icon}
+    [jguinney](https://github.com/jguinney)<br>
+  <small>
+     Sage Bionetworks
   </small>
 
 

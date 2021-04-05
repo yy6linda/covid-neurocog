@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/jaybee84/covid-neurocog/tree/gh-pages) branch hosts the contents of this directory at <https://jaybee84.github.io/covid-neurocog/>.
-The permalink for this webpage version is <https://jaybee84.github.io/covid-neurocog/v/f09ce13278540620afe5a67840ef23284d4d83f9/>.
+The permalink for this webpage version is <https://jaybee84.github.io/covid-neurocog/v/4d4815b90dc2a38749166ab733c17f0c4bd9c139/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://jaybee84.github.io/covid-neurocog/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`f09ce13278540620afe5a67840ef23284d4d83f9`](https://github.com/jaybee84/covid-neurocog/commit/f09ce13278540620afe5a67840ef23284d4d83f9).
+[`4d4815b90dc2a38749166ab733c17f0c4bd9c139`](https://github.com/jaybee84/covid-neurocog/commit/4d4815b90dc2a38749166ab733c17f0c4bd9c139).

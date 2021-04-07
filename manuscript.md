@@ -51,9 +51,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jaybee84.github.io/covid-neurocog/" />
   <meta name="citation_pdf_url" content="https://jaybee84.github.io/covid-neurocog/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jaybee84.github.io/covid-neurocog/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jaybee84.github.io/covid-neurocog/v/bda5619acfd7399ff24fe39d8cd37efdb8abac0e/" />
-  <meta name="manubot_html_url_versioned" content="https://jaybee84.github.io/covid-neurocog/v/bda5619acfd7399ff24fe39d8cd37efdb8abac0e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jaybee84.github.io/covid-neurocog/v/bda5619acfd7399ff24fe39d8cd37efdb8abac0e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jaybee84.github.io/covid-neurocog/v/804aeffcafe57fddc9e1df4e1b0e0716038a3f50/" />
+  <meta name="manubot_html_url_versioned" content="https://jaybee84.github.io/covid-neurocog/v/804aeffcafe57fddc9e1df4e1b0e0716038a3f50/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jaybee84.github.io/covid-neurocog/v/804aeffcafe57fddc9e1df4e1b0e0716038a3f50/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -75,9 +75,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jaybee84.github.io/covid-neurocog/v/bda5619acfd7399ff24fe39d8cd37efdb8abac0e/))
+([permalink](https://jaybee84.github.io/covid-neurocog/v/804aeffcafe57fddc9e1df4e1b0e0716038a3f50/))
 was automatically generated
-from [jaybee84/covid-neurocog@bda5619](https://github.com/jaybee84/covid-neurocog/tree/bda5619acfd7399ff24fe39d8cd37efdb8abac0e)
+from [jaybee84/covid-neurocog@804aeff](https://github.com/jaybee84/covid-neurocog/tree/804aeffcafe57fddc9e1df4e1b0e0716038a3f50)
 on April 7, 2021.
 </em></small>
 

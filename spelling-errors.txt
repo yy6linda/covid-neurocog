@@ -1,7 +1,7 @@
 adipiscing
 aliqua
 aliquip
-Allaway
+allaway
 amet
 anim
 aute
@@ -51,7 +51,7 @@ sed
 sint
 sunt
 tempor
-trang
+Trang
 ullamco
 velit
 veniam

@@ -5,7 +5,7 @@ keywords:
 - rare population
 - manubot
 lang: en-US
-date-meta: '2021-04-05'
+date-meta: '2021-04-07'
 author-meta:
 - Jineta Banerjee
 - Trang T le
@@ -22,8 +22,8 @@ header-includes: |-
   <meta name="citation_title" content="WIP: New-onset Neurocognitive effects in COVID patients" />
   <meta property="og:title" content="WIP: New-onset Neurocognitive effects in COVID patients" />
   <meta property="twitter:title" content="WIP: New-onset Neurocognitive effects in COVID patients" />
-  <meta name="dc.date" content="2021-04-05" />
-  <meta name="citation_publication_date" content="2021-04-05" />
+  <meta name="dc.date" content="2021-04-07" />
+  <meta name="citation_publication_date" content="2021-04-07" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -51,9 +51,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jaybee84.github.io/covid-neurocog/" />
   <meta name="citation_pdf_url" content="https://jaybee84.github.io/covid-neurocog/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jaybee84.github.io/covid-neurocog/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jaybee84.github.io/covid-neurocog/v/4d4815b90dc2a38749166ab733c17f0c4bd9c139/" />
-  <meta name="manubot_html_url_versioned" content="https://jaybee84.github.io/covid-neurocog/v/4d4815b90dc2a38749166ab733c17f0c4bd9c139/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jaybee84.github.io/covid-neurocog/v/4d4815b90dc2a38749166ab733c17f0c4bd9c139/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jaybee84.github.io/covid-neurocog/v/bda5619acfd7399ff24fe39d8cd37efdb8abac0e/" />
+  <meta name="manubot_html_url_versioned" content="https://jaybee84.github.io/covid-neurocog/v/bda5619acfd7399ff24fe39d8cd37efdb8abac0e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jaybee84.github.io/covid-neurocog/v/bda5619acfd7399ff24fe39d8cd37efdb8abac0e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -75,10 +75,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jaybee84.github.io/covid-neurocog/v/4d4815b90dc2a38749166ab733c17f0c4bd9c139/))
+([permalink](https://jaybee84.github.io/covid-neurocog/v/bda5619acfd7399ff24fe39d8cd37efdb8abac0e/))
 was automatically generated
-from [jaybee84/covid-neurocog@4d4815b](https://github.com/jaybee84/covid-neurocog/tree/4d4815b90dc2a38749166ab733c17f0c4bd9c139)
-on April 5, 2021.
+from [jaybee84/covid-neurocog@bda5619](https://github.com/jaybee84/covid-neurocog/tree/bda5619acfd7399ff24fe39d8cd37efdb8abac0e)
+on April 7, 2021.
 </em></small>
 
 ## Authors

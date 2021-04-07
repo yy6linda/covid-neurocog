@@ -1,4 +1,4 @@
-# Automated scholarly manuscripts on GitHub
+# Investigating new-onset neurocognitive complications in COVID-19 patients
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
@@ -7,6 +7,32 @@
 [![GitHub Actions Status](https://github.com/jaybee84/covid-neurocog/workflows/Manubot/badge.svg)](https://github.com/jaybee84/covid-neurocog/actions)
 [![Travis Build Status](https://travis-ci.com/jaybee84/covid-neurocog.svg?branch=main)](https://travis-ci.com/jaybee84/covid-neurocog)
 <!-- usage note: delete CI badges above for services not used by your manuscript -->
+
+## Introduction and Rationale
+The physiological impact of the newly identified Coronavirus disease 2019 (COVID-19) on various segments of the population has been divergent. While some COVID-positive patients have developed serious pulmonary complications, others have shown relatively mild pulmonary symptoms. Whether the pulmonary symptoms are the only effect of COVID-19 on the human body is still under investigation. 
+
+Recent studies in the UK and Spain have noted that a notable percentage of patients showed significant impact to the central nervous system1,2. Whether these impacts only affected the patients in the short term, or if they have longer term consequences is still not well understood. According to the data collected through a portal set up in the early stages of the pandemic in the UK, 62% of tracked patients showed the presence of a cerebrovascular event3. More notably, a higher fraction of younger patients showed altered mental status compared to cerebrovascular events, suggesting a possible predisposition of the younger population towards the neurocognitive effects. Altered mental status was the second most common symptom often occurring in younger patients. Identification of such cases in the UK was fuelled by the ABN RADAR portal and the situation continues to be monitored 4,5 . 
+
+Recent reports suggest that neurological complications of COVID-19 also exist in the US population and may be at a higher prevalence than seen in Europe6–8. While this has been systematically studied in Europe where the arrival of the virus predated that in the US, there remains a need to examine the prevalence of these patterns in the US population in greater detail. Moreover, neuropsychiatric effects can cause long term changes in the quality of life of the patients and their caregivers. Thus early identification of clinical features that may be predictive of such effects in US patients is critical.
+We plan to use machine learning and other computational methods to identify features that may be predictive of the new-onset neurocognitive complications in people who tested positive for COVID-19. We expect this population to be relatively small, and thus will identify and implement computational methods that are specifically robust towards rare outcomes9. This project will lay the foundation to preemptively identify and monitor above mentioned neurocognitive complications due to COVID-19 and assist patients in receiving appropriate and necessary prophylactic care.
+
+## Objectives
+Is there an association between COVID-19 (various severity levels) and new onset neurocognitive dysfunction? 
+What are some clinical and demographic features that are predictive of COVID-19 related new onset neurocognitive changes?
+Are there factors that make these specific populations more vulnerable than the general population?
+
+## Analytical Plan
+ 
+### Aim 1: 
+Is there an association between COVID-19 (various severity levels) and new onset neurocognitive dysfunction? While various neurocognitive effects have been reported in relation to the COVID-19 pandemic, there is a need to understand effects caused by the unusual life changes due to the social restrictions of the pandemic and those caused by biological interventions of the virus. To address this aim, we will first define the phenotypes of “COVID19 related new onset neurocognitive dysfunction” using longitudinal health record data. Additionally we will use various clinical features to perform causal inference analysis to determine validity of the defined phenotypes.
+
+### Aim 2: 
+What are some clinical and demographic features that are predictive of COVID19 related new onset neurocognitive changes? New onset neuro-cognitive changes in COVID-19 positive individuals with no prior neurocognitive history may require active monitoring or follow up to understand their short and long term effects. Identifying factors that may indicate increased risk of a population of healthy individuals towards conditions that may become chronic if not treated promptly, can help direct prophylactic help towards these populations. We expect the population of such vulnerability to be quite sparse. We will implement machine learning methods that robust towards small imbalanced datasets, providing valuable insights while reducing the risk of misinterpretation when implemented on sparse datasets. Our goal is to find features that can predict a probability score or likelihood of risk for a new patient so that they can be directed to prophylactic treatment as soon as possible.
+
+### Aim 3: 
+Are there factors that make these specific populations more vulnerable than the general population? Generalizability of the features identified in any analysis is key for establishing good practices for practical implementation. To understand how the features identified in the N3C cohort may generalize in other populations, we will compare summary statistics from the identified experimental and population in the N3C COVID cohort with summary statistics from other population level cohorts like AllofUs, and global.health. We will then examine whether the features or trends identified in the N3C cohort are recapitulated independently in the other cohorts.
+
+
 
 ## Manuscript description
 

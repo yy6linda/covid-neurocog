@@ -1,0 +1,213 @@
+﻿Concept Name,Concept Id,Vocabulary Id,Concept Code,Concept Class Id,Standard Concept,Concept Name,Domain Id
+Senile dementia with delusion,380986,SNOMED,371024007,Clinical Finding,S,Senile dementia with delusion,Condition
+Senile dementia with psychosis,4159643,SNOMED,371026009,Clinical Finding,S,Senile dementia with psychosis,Condition
+Cannabis intoxication delirium,4220197,SNOMED,39807006,Clinical Finding,S,Cannabis intoxication delirium,Condition
+Postconcussion syndrome,372610,SNOMED,40425004,Clinical Finding,S,Postconcussion syndrome,Condition
+"Primary degenerative dementia of the Alzheimer type, senile onset, with delusions",4204688,SNOMED,55009008,Clinical Finding,S,"Primary degenerative dementia of the Alzheimer type, senile onset, with delusions",Condition
+Multi-infarct dementia,379778,SNOMED,56267009,Clinical Finding,S,Multi-infarct dementia,Condition
+"Sedative, hypnotic AND/OR anxiolytic-induced persisting dementia",4245766,SNOMED,59651006,Clinical Finding,S,"Sedative, hypnotic AND/OR anxiolytic-induced persisting dementia",Condition
+Cocaine delirium,4290062,SNOMED,70328006,Clinical Finding,S,Cocaine delirium,Condition
+Benzodiazepine withdrawal delirium,45766642,SNOMED,703850002,Clinical Finding,S,Benzodiazepine withdrawal delirium,Condition
+"Major depression single episode, in partial remission",4323418,SNOMED,70747007,Clinical Finding,S,"Major depression single episode, in partial remission",Condition
+"Multi-infarct dementia, uncomplicated",377254,SNOMED,70936005,Clinical Finding,S,"Multi-infarct dementia, uncomplicated",Condition
+"Severe major depression, single episode, without psychotic features",441534,SNOMED,76441001,Clinical Finding,S,"Severe major depression, single episode, without psychotic features",Condition
+"Single major depressive episode, in remission",44805550,SNOMED,764711000000106,Clinical Finding,S,"Single major depressive episode, in remission",Condition
+"Major depressive disorder, single episode with melancholic features",4270907,SNOMED,63778009,Clinical Finding,S,"Major depressive disorder, single episode with melancholic features",Condition
+"Primary degenerative dementia of the Alzheimer type, presenile onset, uncomplicated",4277444,SNOMED,6475002,Clinical Finding,S,"Primary degenerative dementia of the Alzheimer type, presenile onset, uncomplicated",Condition
+"Primary degenerative dementia of the Alzheimer type, presenile onset, with delirium",4277746,SNOMED,65096006,Clinical Finding,S,"Primary degenerative dementia of the Alzheimer type, presenile onset, with delirium",Condition
+"Primary degenerative dementia of the Alzheimer type, senile onset, uncomplicated",4278830,SNOMED,66108005,Clinical Finding,S,"Primary degenerative dementia of the Alzheimer type, senile onset, uncomplicated",Condition
+"Major depressive disorder, single episode with catatonic features",4287238,SNOMED,69392006,Clinical Finding,S,"Major depressive disorder, single episode with catatonic features",Condition
+Senile dementia of the Lewy body type,4196433,SNOMED,312991009,Clinical Finding,S,Senile dementia of the Lewy body type,Condition
+Delirium,373995,SNOMED,2776000,Clinical Finding,S,Delirium,Condition
+Dementia of frontal lobe type,441002,SNOMED,278857002,Clinical Finding,S,Dementia of frontal lobe type,Condition
+Chronic confusional state,4091826,SNOMED,280994000,Clinical Finding,S,Chronic confusional state,Condition
+Dementia associated with alcoholism,378726,SNOMED,281004,Clinical Finding,S,Dementia associated with alcoholism,Condition
+Inhalant-induced persisting dementia,4139421,SNOMED,32875003,Clinical Finding,S,Inhalant-induced persisting dementia,Condition
+Subcortical leukoencephalopathy,4234089,SNOMED,90099008,Clinical Finding,S,Subcortical leukoencephalopathy,Condition
+Dialysis dementia,4244346,SNOMED,9345005,Clinical Finding,S,Dialysis dementia,Condition
+Amphetamine delirium,4228825,SNOMED,8837000,Clinical Finding,S,Amphetamine delirium,Condition
+Organic dementia associated with AIDS,4224860,SNOMED,420614009,Clinical Finding,S,Organic dementia associated with AIDS,Condition
+Presenile dementia associated with AIDS,4224240,SNOMED,421023003,Clinical Finding,S,Presenile dementia associated with AIDS,Condition
+Dementia associated with AIDS,4228133,SNOMED,421529006,Clinical Finding,S,Dementia associated with AIDS,Condition
+Dementia associated with Parkinson's Disease,4314734,SNOMED,425390006,Clinical Finding,S,Dementia associated with Parkinson's Disease,Condition
+Mild dementia,762497,SNOMED,428051000124108,Clinical Finding,S,Mild dementia,Condition
+"Primary degenerative dementia of the Alzheimer type, senile onset, with behavioral disturbance",762578,SNOMED,429161000124103,Clinical Finding,S,"Primary degenerative dementia of the Alzheimer type, senile onset, with behavioral disturbance",Condition
+"Major depressive disorder, single episode with atypical features",4181807,SNOMED,42925002,Clinical Finding,S,"Major depressive disorder, single episode with atypical features",Condition
+General paresis - neurosyphilis,377788,SNOMED,51928006,Clinical Finding,S,General paresis - neurosyphilis,Condition
+Dementia,4182210,SNOMED,52448006,Clinical Finding,S,Dementia,Condition
+"Primary degenerative dementia of the Alzheimer type, senile onset, with delirium",4167839,SNOMED,4817008,Clinical Finding,S,"Primary degenerative dementia of the Alzheimer type, senile onset, with delirium",Condition
+Postseizure delirium,4177642,SNOMED,49481000,Clinical Finding,S,Postseizure delirium,Condition
+"Sedative, hypnotic AND/OR anxiolytic intoxication delirium",4184438,SNOMED,5444000,Clinical Finding,S,"Sedative, hypnotic AND/OR anxiolytic intoxication delirium",Condition
+"Primary degenerative dementia of the Alzheimer type, presenile onset, with delusions",4182539,SNOMED,54502004,Clinical Finding,S,"Primary degenerative dementia of the Alzheimer type, presenile onset, with delusions",Condition
+"Primary degenerative dementia of the Alzheimer type, senile onset, with depression",4097384,SNOMED,26852004,Clinical Finding,S,"Primary degenerative dementia of the Alzheimer type, senile onset, with depression",Condition
+Senile and presenile organic psychotic conditions,4152048,SNOMED,268612007,Clinical Finding,S,Senile and presenile organic psychotic conditions,Condition
+Alzheimer's disease,378419,SNOMED,26929004,Clinical Finding,S,Alzheimer's disease,Condition
+"Major depressive disorder, single episode with postpartum onset",4093584,SNOMED,25922000,Clinical Finding,S,"Major depressive disorder, single episode with postpartum onset",Condition
+Multi-infarct dementia with delusions,443790,SNOMED,25772007,Clinical Finding,S,Multi-infarct dementia with delusions,Condition
+Dementia paralytica juvenilis,4307791,SNOMED,82959004,Clinical Finding,S,Dementia paralytica juvenilis,Condition
+Acute non-psychotic brain syndrome,4312487,SNOMED,85821003,Clinical Finding,S,Acute non-psychotic brain syndrome,Condition
+Alcohol withdrawal delirium,377830,SNOMED,8635005,Clinical Finding,S,Alcohol withdrawal delirium,Condition
+Dementia caused by volatile inhalant,37311999,SNOMED,788898005,Clinical Finding,S,Dementia caused by volatile inhalant,Condition
+Dementia due to pellagra,37311998,SNOMED,788899002,Clinical Finding,S,Dementia due to pellagra,Condition
+"Mild major depression, single episode",4195572,SNOMED,79298009,Clinical Finding,S,"Mild major depression, single episode",Condition
+"Severe major depression, single episode, with psychotic features, mood-congruent",4299785,SNOMED,77911002,Clinical Finding,S,"Severe major depression, single episode, with psychotic features, mood-congruent",Condition
+"Primary degenerative dementia of the Alzheimer type, presenile onset",4218017,SNOMED,416780008,Clinical Finding,S,"Primary degenerative dementia of the Alzheimer type, presenile onset",Condition
+"Primary degenerative dementia of the Alzheimer type, senile onset",4220313,SNOMED,416975007,Clinical Finding,S,"Primary degenerative dementia of the Alzheimer type, senile onset",Condition
+Severe dementia,765653,SNOMED,428351000124105,Clinical Finding,S,Severe dementia,Condition
+Vascular dementia,443605,SNOMED,429998004,Clinical Finding,S,Vascular dementia,Condition
+Moderate dementia,762704,SNOMED,430771000124100,Clinical Finding,S,Moderate dementia,Condition
+"Major depression, single episode",4282096,SNOMED,36923009,Clinical Finding,S,"Major depression, single episode",Condition
+PCP delirium,4135337,SNOMED,31715000,Clinical Finding,S,PCP delirium,Condition
+Sedative withdrawal delirium,4262566,SNOMED,361151007,Clinical Finding,S,Sedative withdrawal delirium,Condition
+"Single major depressive episode, severe, with psychosis, psychosis in remission",44805668,SNOMED,755321000000106,Clinical Finding,S,"Single major depressive episode, severe, with psychosis, psychosis in remission",Condition
+Cortical vascular dementia,3654434,SNOMED,833326008,Clinical Finding,S,Cortical vascular dementia,Condition
+"Amyotrophic lateral sclerosis, parkinsonism, dementia complex",3654598,SNOMED,838276009,Clinical Finding,S,"Amyotrophic lateral sclerosis, parkinsonism, dementia complex",Condition
+Dementia due to carbon monoxide poisoning,3654920,SNOMED,840464007,Clinical Finding,S,Dementia due to carbon monoxide poisoning,Condition
+Dementia due to iron deficiency,3654921,SNOMED,840465008,Clinical Finding,S,Dementia due to iron deficiency,Condition
+Psychoactive substance-induced organic delirium,4191592,SNOMED,39003006,Clinical Finding,S,Psychoactive substance-induced organic delirium,Condition
+Early Alzheimers disease,3179057,Nebraska Lexicon,13160001000004109,Clinical Finding,S,Early Alzheimers disease,Condition
+Alzheimers continuum,3170377,Nebraska Lexicon,245761000004103,Clinical Finding,S,Alzheimers continuum,Condition
+Low level Alzheimers neuropathology changes,3177168,Nebraska Lexicon,471041000004103,Clinical Finding,S,Low level Alzheimers neuropathology changes,Condition
+Intermediate level Alzheimers neuropathology changes,3176418,Nebraska Lexicon,481291000004108,Clinical Finding,S,Intermediate level Alzheimers neuropathology changes,Condition
+High level Alzheimers neuropathology changes,3184947,Nebraska Lexicon,481311000004107,Clinical Finding,S,High level Alzheimers neuropathology changes,Condition
+Dementia with aggressive behavior,3188986,Nebraska Lexicon,9960001000004109,Clinical Finding,S,Dementia with aggressive behavior,Condition
+Dementia due to Huntington chorea,40483103,SNOMED,442344002,Clinical Finding,S,Dementia due to Huntington chorea,Condition
+Presenile dementia co-occurrent with human immunodeficiency virus infection,37017247,SNOMED,713488003,Clinical Finding,S,Presenile dementia co-occurrent with human immunodeficiency virus infection,Condition
+Dementia co-occurrent with human immunodeficiency virus infection,37017549,SNOMED,713844000,Clinical Finding,S,Dementia co-occurrent with human immunodeficiency virus infection,Condition
+Parkinsonism with dementia of Guadeloupe,37396063,SNOMED,715737004,Clinical Finding,S,Parkinsonism with dementia of Guadeloupe,Condition
+Moderately severe major depression single episode,36717389,SNOMED,720453001,Clinical Finding,S,Moderately severe major depression single episode,Condition
+Minimal major depression single episode,36714999,SNOMED,720454007,Clinical Finding,S,Minimal major depression single episode,Condition
+Non-amnestic Alzheimer disease,36716558,SNOMED,722600006,Clinical Finding,S,Non-amnestic Alzheimer disease,Condition
+Delirium caused by substance or medication,36716780,SNOMED,722961009,Clinical Finding,S,Delirium caused by substance or medication,Condition
+Dementia co-occurrent and due to neurocysticercosis,36716795,SNOMED,722977005,Clinical Finding,S,Dementia co-occurrent and due to neurocysticercosis,Condition
+Dementia caused by toxin,36717598,SNOMED,722978000,Clinical Finding,S,Dementia caused by toxin,Condition
+Dementia due to metabolic abnormality,36716796,SNOMED,722979008,Clinical Finding,S,Dementia due to metabolic abnormality,Condition
+Dementia due to chromosomal anomaly,36716797,SNOMED,722980006,Clinical Finding,S,Dementia due to chromosomal anomaly,Condition
+Ischemic vascular dementia,36717248,SNOMED,723123001,Clinical Finding,S,Ischemic vascular dementia,Condition
+Rapidly progressive dementia,37109635,SNOMED,723390000,Clinical Finding,S,Rapidly progressive dementia,Condition
+Delirium caused by methylenedioxymethamphetamine,37110451,SNOMED,724705005,Clinical Finding,S,Delirium caused by methylenedioxymethamphetamine,Condition
+Delirium caused by ketamine,37110460,SNOMED,724716003,Clinical Finding,S,Delirium caused by ketamine,Condition
+Delirium caused by dissociative drug,37110461,SNOMED,724717007,Clinical Finding,S,Delirium caused by dissociative drug,Condition
+Delirium due to multiple etiological factors,37117216,SNOMED,724746000,Clinical Finding,S,Delirium due to multiple etiological factors,Condition
+Dementia due to disorder of central nervous system,37110513,SNOMED,724776007,Clinical Finding,S,Dementia due to disorder of central nervous system,Condition
+Dementia due to infectious disease,37119154,SNOMED,724777003,Clinical Finding,S,Dementia due to infectious disease,Condition
+Epilepsy co-occurrent and due to dementia,37110677,SNOMED,724992007,Clinical Finding,S,Epilepsy co-occurrent and due to dementia,Condition
+Delirium co-occurrent with dementia,37111242,SNOMED,725898002,Clinical Finding,S,Delirium co-occurrent with dementia,Condition
+Dementia due to Parkinson's disease,44782422,SNOMED,101421000119107,Clinical Finding,S,Dementia due to Parkinson's disease,Condition
+Early onset Alzheimer's disease with behavioral disturbance,44782432,SNOMED,105421000119105,Clinical Finding,S,Early onset Alzheimer's disease with behavioral disturbance,Condition
+Multi-infarct dementia due to atherosclerosis,37395562,SNOMED,106021000119105,Clinical Finding,S,Multi-infarct dementia due to atherosclerosis,Condition
+Dementia due to Rett's syndrome,43020422,SNOMED,130121000119104,Clinical Finding,S,Dementia due to Rett's syndrome,Condition
+Delusions in Alzheimer's disease,44782726,SNOMED,141991000119109,Clinical Finding,S,Delusions in Alzheimer's disease,Condition
+Depressed mood in Alzheimer's disease,44782727,SNOMED,142001000119106,Clinical Finding,S,Depressed mood in Alzheimer's disease,Condition
+Alzheimer's disease co-occurrent with delirium,37395572,SNOMED,142011000119109,Clinical Finding,S,Alzheimer's disease co-occurrent with delirium,Condition
+Dementia of the Alzheimer type with behavioral disturbance,43530664,SNOMED,1581000119101,Clinical Finding,S,Dementia of the Alzheimer type with behavioral disturbance,Condition
+Behavioral disturbance co-occurrent and due to late onset Alzheimer dementia,37117145,SNOMED,16219201000119101,Clinical Finding,S,Behavioral disturbance co-occurrent and due to late onset Alzheimer dementia,Condition
+Mild major depressive disorder co-occurrent with anxiety single episode,37109052,SNOMED,16265951000119109,Clinical Finding,S,Mild major depressive disorder co-occurrent with anxiety single episode,Condition
+Moderate major depressive disorder co-occurrent with anxiety single episode,37109053,SNOMED,16266831000119100,Clinical Finding,S,Moderate major depressive disorder co-occurrent with anxiety single episode,Condition
+Severe major depressive disorder co-occurrent with anxiety single episode,37109054,SNOMED,16266991000119108,Clinical Finding,S,Severe major depressive disorder co-occurrent with anxiety single episode,Condition
+Vascular dementia without behavioral disturbance,37109056,SNOMED,16276361000119109,Clinical Finding,S,Vascular dementia without behavioral disturbance,Condition
+Delirium due to opioid withdrawal,37209507,SNOMED,16279021000119106,Clinical Finding,S,Delirium due to opioid withdrawal,Condition
+"Single major depressive episode, severe, with psychosis",439259,SNOMED,191604000,Clinical Finding,S,"Single major depressive episode, severe, with psychosis",Condition
+Dementia due to Pick's disease,44782710,SNOMED,21921000119103,Clinical Finding,S,Dementia due to Pick's disease,Condition
+Primary degenerative dementia,43020444,SNOMED,22381000119105,Clinical Finding,S,Primary degenerative dementia,Condition
+Hallucinations co-occurrent and due to late onset dementia,37109222,SNOMED,2421000119107,Clinical Finding,S,Hallucinations co-occurrent and due to late onset dementia,Condition
+"Severe major depression, single episode",42872411,SNOMED,251000119105,Clinical Finding,S,"Severe major depression, single episode",Condition
+Vascular dementia with behavioral disturbance,37018688,SNOMED,288631000119104,Clinical Finding,S,Vascular dementia with behavioral disturbance,Condition
+Dementia associated with cerebral lipidosis,44784472,SNOMED,698624003,Clinical Finding,S,Dementia associated with cerebral lipidosis,Condition
+Dementia associated with normal pressure hydrocephalus,44784473,SNOMED,698625002,Clinical Finding,S,Dementia associated with normal pressure hydrocephalus,Condition
+Dementia associated with multiple sclerosis,44784474,SNOMED,698626001,Clinical Finding,S,Dementia associated with multiple sclerosis,Condition
+Post-traumatic dementia with behavioral change,44784521,SNOMED,698687007,Clinical Finding,S,Post-traumatic dementia with behavioral change,Condition
+Dementia associated with neurosyphilis,44784559,SNOMED,698725008,Clinical Finding,S,Dementia associated with neurosyphilis,Condition
+Dementia associated with viral encephalitis,44784560,SNOMED,698726009,Clinical Finding,S,Dementia associated with viral encephalitis,Condition
+Dementia associated with cerebral anoxia,44784607,SNOMED,698781002,Clinical Finding,S,Dementia associated with cerebral anoxia,Condition
+Vascular dementia in remission,44782934,SNOMED,698948009,Clinical Finding,S,Vascular dementia in remission,Condition
+Dementia in remission,44782935,SNOMED,698949001,Clinical Finding,S,Dementia in remission,Condition
+"Primary degenerative dementia of the Alzheimer type, senile onset in remission",44782940,SNOMED,698954005,Clinical Finding,S,"Primary degenerative dementia of the Alzheimer type, senile onset in remission",Condition
+"Primary degenerative dementia of the Alzheimer type, presenile onset in remission",44782941,SNOMED,698955006,Clinical Finding,S,"Primary degenerative dementia of the Alzheimer type, presenile onset in remission",Condition
+Delirium in remission,44782944,SNOMED,698958008,Clinical Finding,S,Delirium in remission,Condition
+Altered behavior in Alzheimer's disease,44784643,SNOMED,97751000119108,Clinical Finding,S,Altered behavior in Alzheimer's disease,Condition
+Presenile dementia with psychosis,35610096,SNOMED,1089501000000102,Clinical Finding,S,Presenile dementia with psychosis,Condition
+Predominantly cortical dementia,35610098,SNOMED,1089521000000106,Clinical Finding,S,Predominantly cortical dementia,Condition
+Predominantly cortical vascular dementia,35610099,SNOMED,1089531000000108,Clinical Finding,S,Predominantly cortical vascular dementia,Condition
+Presenile dementia,378125,SNOMED,12348006,Clinical Finding,S,Presenile dementia,Condition
+ABri amyloidosis,37204495,SNOMED,783161005,Clinical Finding,S,ABri amyloidosis,Condition
+ADan amyloidosis,37204554,SNOMED,783258000,Clinical Finding,S,ADan amyloidosis,Condition
+Mixed dementia,43021816,SNOMED,79341000119107,Clinical Finding,S,Mixed dementia,Condition
+Altered behavior in Huntington's dementia,44784620,SNOMED,82361000119107,Clinical Finding,S,Altered behavior in Huntington's dementia,Condition
+Dementia due to multiple sclerosis with altered behavior,44782559,SNOMED,82371000119101,Clinical Finding,S,Dementia due to multiple sclerosis with altered behavior,Condition
+Epileptic dementia with behavioral disturbance,37018608,SNOMED,82381000119103,Clinical Finding,S,Epileptic dementia with behavioral disturbance,Condition
+Psychoactive substance-induced organic dementia,4009647,SNOMED,111480006,Clinical Finding,S,Psychoactive substance-induced organic dementia,Condition
+Delirium due to methamphetamine intoxication,37309682,SNOMED,16236661000119100,Clinical Finding,S,Delirium due to methamphetamine intoxication,Condition
+Delirium due to drug withdrawal,37309681,SNOMED,16236701000119107,Clinical Finding,S,Delirium due to drug withdrawal,Condition
+Multi-infarct dementia with depression,443864,SNOMED,14070001,Clinical Finding,S,Multi-infarct dementia with depression,Condition
+Dementia with behavioral disturbance,43530666,SNOMED,1591000119103,Clinical Finding,S,Dementia with behavioral disturbance,Condition
+"Moderate major depression, single episode",4049623,SNOMED,15639000,Clinical Finding,S,"Moderate major depression, single episode",Condition
+Senile dementia,4048875,SNOMED,15662003,Clinical Finding,S,Senile dementia,Condition
+"Chronic major depressive disorder, single episode",4031328,SNOMED,14183003,Clinical Finding,S,"Chronic major depressive disorder, single episode",Condition
+Multi-infarct dementia with delirium,444091,SNOMED,10349009,Clinical Finding,S,Multi-infarct dementia with delirium,Condition
+"Primary degenerative dementia of the Alzheimer type, presenile onset, with depression",4019705,SNOMED,10532003,Clinical Finding,S,"Primary degenerative dementia of the Alzheimer type, presenile onset, with depression",Condition
+Postoperative delirium,36674302,SNOMED,771418002,Clinical Finding,S,Postoperative delirium,Condition
+Hyperactive postoperative delirium,36674303,SNOMED,771419005,Clinical Finding,S,Hyperactive postoperative delirium,Condition
+Hypoactive postoperative delirium,36675111,SNOMED,771420004,Clinical Finding,S,Hypoactive postoperative delirium,Condition
+Mixed hyperactive hypoactive postoperative delirium,36675112,SNOMED,771421000,Clinical Finding,S,Mixed hyperactive hypoactive postoperative delirium,Condition
+PRKAR1B-related neurodegenerative dementia with intermediate filaments,36674472,SNOMED,774069007,Clinical Finding,S,PRKAR1B-related neurodegenerative dementia with intermediate filaments,Condition
+Dementia caused by heavy metal exposure,37116464,SNOMED,733184002,Clinical Finding,S,Dementia caused by heavy metal exposure,Condition
+Dementia following injury caused by exposure to ionizing radiation,42535731,SNOMED,733185001,Clinical Finding,S,Dementia following injury caused by exposure to ionizing radiation,Condition
+Dementia due to primary malignant neoplasm of brain,37116465,SNOMED,733190003,Clinical Finding,S,Dementia due to primary malignant neoplasm of brain,Condition
+Dementia due to chronic subdural hematoma,37116466,SNOMED,733191004,Clinical Finding,S,Dementia due to chronic subdural hematoma,Condition
+Dementia due to herpes encephalitis,37116467,SNOMED,733192006,Clinical Finding,S,Dementia due to herpes encephalitis,Condition
+Dementia with progressive multifocal leukoencephalopathy,37116468,SNOMED,733193001,Clinical Finding,S,Dementia with progressive multifocal leukoencephalopathy,Condition
+Dementia with Down syndrome,37116469,SNOMED,733194007,Clinical Finding,S,Dementia with Down syndrome,Condition
+Presenile dementia with delusions,44782771,SNOMED,31081000119101,Clinical Finding,S,Presenile dementia with delusions,Condition
+Dementia due to Creutzfeldt Jakob disease,4180284,SNOMED,429458009,Clinical Finding,S,Dementia due to Creutzfeldt Jakob disease,Condition
+Delirium caused by synthetic cannabinoid,42537775,SNOMED,737339005,Clinical Finding,S,Delirium caused by synthetic cannabinoid,Condition
+Delirium caused by stimulant,42538586,SNOMED,762324008,Clinical Finding,S,Delirium caused by stimulant,Condition
+Dementia due to prion disease,42538609,SNOMED,762350007,Clinical Finding,S,Dementia due to prion disease,Condition
+Dementia due to and following injury of head,42538610,SNOMED,762351006,Clinical Finding,S,Dementia due to and following injury of head,Condition
+Delirium caused by synthetic cathinone,42538730,SNOMED,762506007,Clinical Finding,S,Delirium caused by synthetic cathinone,Condition
+Subcortical dementia,42538857,SNOMED,762707000,Clinical Finding,S,Subcortical dementia,Condition
+Toxic confusional state,4333668,SNOMED,231439009,Clinical Finding,S,Toxic confusional state,Condition
+Delirium of mixed origin,4333669,SNOMED,231440006,Clinical Finding,S,Delirium of mixed origin,Condition
+Psychosis associated with intensive care,4332878,SNOMED,231450007,Clinical Finding,S,Psychosis associated with intensive care,Condition
+Drug-induced intensive care psychosis,4335161,SNOMED,231451006,Clinical Finding,S,Drug-induced intensive care psychosis,Condition
+Familial Alzheimer's disease of early onset,4043241,SNOMED,230265002,Clinical Finding,S,Familial Alzheimer's disease of early onset,Condition
+Non-familial Alzheimer's disease of early onset,4043242,SNOMED,230266001,Clinical Finding,S,Non-familial Alzheimer's disease of early onset,Condition
+Familial Alzheimer's disease of late onset,4043243,SNOMED,230267005,Clinical Finding,S,Familial Alzheimer's disease of late onset,Condition
+Non-familial Alzheimer's disease of late onset,4043244,SNOMED,230268000,Clinical Finding,S,Non-familial Alzheimer's disease of late onset,Condition
+Focal Alzheimer's disease,4043377,SNOMED,230269008,Clinical Finding,S,Focal Alzheimer's disease,Condition
+Progressive aphasia in Alzheimer's disease,4043379,SNOMED,230280008,Clinical Finding,S,Progressive aphasia in Alzheimer's disease,Condition
+Traumatic encephalopathy,4047745,SNOMED,230282000,Clinical Finding,S,Traumatic encephalopathy,Condition
+Punch drunk syndrome,4046088,SNOMED,230283005,Clinical Finding,S,Punch drunk syndrome,Condition
+Vascular dementia of acute onset,4046089,SNOMED,230285003,Clinical Finding,S,Vascular dementia of acute onset,Condition
+Subcortical vascular dementia,4047747,SNOMED,230286002,Clinical Finding,S,Subcortical vascular dementia,Condition
+Mixed cortical and subcortical vascular dementia,4046090,SNOMED,230287006,Clinical Finding,S,Mixed cortical and subcortical vascular dementia,Condition
+Patchy dementia,4047748,SNOMED,230289009,Clinical Finding,S,Patchy dementia,Condition
+Uncomplicated senile dementia,375791,SNOMED,191449005,Clinical Finding,S,Uncomplicated senile dementia,Condition
+Uncomplicated presenile dementia,376085,SNOMED,191451009,Clinical Finding,S,Uncomplicated presenile dementia,Condition
+Presenile dementia with delirium,381832,SNOMED,191452002,Clinical Finding,S,Presenile dementia with delirium,Condition
+Presenile dementia with paranoia,4098163,SNOMED,191454001,Clinical Finding,S,Presenile dementia with paranoia,Condition
+Presenile dementia with depression,377527,SNOMED,191455000,Clinical Finding,S,Presenile dementia with depression,Condition
+Senile dementia with depressive or paranoid features,4101137,SNOMED,191457008,Clinical Finding,S,Senile dementia with depressive or paranoid features,Condition
+Senile dementia with paranoia,4100250,SNOMED,191458003,Clinical Finding,S,Senile dementia with paranoia,Condition
+Senile dementia with depression,379784,SNOMED,191459006,Clinical Finding,S,Senile dementia with depression,Condition
+Senile dementia with delirium,376946,SNOMED,191461002,Clinical Finding,S,Senile dementia with delirium,Condition
+Uncomplicated arteriosclerotic dementia,439276,SNOMED,191463004,Clinical Finding,S,Uncomplicated arteriosclerotic dementia,Condition
+Arteriosclerotic dementia with delirium,376094,SNOMED,191464005,Clinical Finding,S,Arteriosclerotic dementia with delirium,Condition
+Arteriosclerotic dementia with paranoia,4100252,SNOMED,191465006,Clinical Finding,S,Arteriosclerotic dementia with paranoia,Condition
+Arteriosclerotic dementia with depression,374326,SNOMED,191466007,Clinical Finding,S,Arteriosclerotic dementia with depression,Condition
+Drug-induced delirium,373449,SNOMED,191492000,Clinical Finding,S,Drug-induced delirium,Condition
+Drug-induced dementia,376095,SNOMED,191493005,Clinical Finding,S,Drug-induced dementia,Condition
+"Acute confusional state, post-traumatic",4101145,SNOMED,191501001,Clinical Finding,S,"Acute confusional state, post-traumatic",Condition
+"Acute confusional state, of infective origin",4103128,SNOMED,191502008,Clinical Finding,S,"Acute confusional state, of infective origin",Condition
+"Acute confusional state, of endocrine origin",4098167,SNOMED,191503003,Clinical Finding,S,"Acute confusional state, of endocrine origin",Condition
+"Acute confusional state, of metabolic origin",4098168,SNOMED,191504009,Clinical Finding,S,"Acute confusional state, of metabolic origin",Condition
+"Acute confusional state, of cerebrovascular origin",4098169,SNOMED,191505005,Clinical Finding,S,"Acute confusional state, of cerebrovascular origin",Condition
+Subacute delirium,379779,SNOMED,191507002,Clinical Finding,S,Subacute delirium,Condition
+"Subacute confusional state, post-traumatic",4100363,SNOMED,191508007,Clinical Finding,S,"Subacute confusional state, post-traumatic",Condition
+"Subacute confusional state, of infective origin",4098170,SNOMED,191509004,Clinical Finding,S,"Subacute confusional state, of infective origin",Condition
+"Subacute confusional state, of endocrine origin",4103246,SNOMED,191510009,Clinical Finding,S,"Subacute confusional state, of endocrine origin",Condition
+"Subacute confusional state, of metabolic origin",4098171,SNOMED,191511008,Clinical Finding,S,"Subacute confusional state, of metabolic origin",Condition
+"Subacute confusional state, of cerebrovascular origin",4098172,SNOMED,191512001,Clinical Finding,S,"Subacute confusional state, of cerebrovascular origin",Condition
+Dementia associated with another disease,374888,SNOMED,191519005,Clinical Finding,S,Dementia associated with another disease,Condition
+Single episode of major depression in full remission,4025677,SNOMED,19527009,Clinical Finding,S,Single episode of major depression in full remission,Condition
+"Severe major depression, single episode, with psychotic features, mood-incongruent",4067409,SNOMED,20250007,Clinical Finding,S,"Severe major depression, single episode, with psychotic features, mood-incongruent",Condition
